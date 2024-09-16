@@ -1,0 +1,1 @@
+# Shirinking-Array-step17-
